@@ -1,0 +1,16 @@
+name: week_1_nanocourse_environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-data.table
+  - r-plyr
+  - r-ggplot2
+  - r-reshape2
+  - r-cowplot
+  - r-rcolorbrewer
+  - bioconductor-limma
+  - bioconductor-edger
+  - bioconductor-geoquery
+  - bioconductor-sva
