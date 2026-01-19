@@ -14,7 +14,7 @@ JupyterLab+R:  [![badge](https://img.shields.io/badge/launch-JupyterLab%20with%2
 > This repository offers sessions already set up to theoretically\* run the content of week 1 of the nanocourse in launches via MyBinder.org!
 
 
-See more about the Upstate-R-Nanocourse-SP26 nanocourse [here)](https://github.com/hessJ/Upstate-R-Nanocourse-SP26).  
+See more about the Upstate-R-Nanocourse-SP26 nanocourse [here](https://github.com/hessJ/Upstate-R-Nanocourse-SP26).  
 I have a fork with some small corrections to the week 1 R script [here](https://github.com/fomightez/Upstate-R-Nanocourse-SP26).   
 
 ----------
