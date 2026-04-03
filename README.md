@@ -11,6 +11,8 @@ JupyterLab+R:  [![badge](https://img.shields.io/badge/launch-JupyterLab%20with%2
 
 ---------------
 
+CURRENTLY RSTUDIO DOESN'T WORK. I think it is a MyBinder issue because it was working a few weeks ago and nothing has changed. Current information at the Jupyter Discourse site doesn't seem to address this yet.
+
 > This repository offers sessions already set up to theoretically\* run the content of week 1 of the nanocourse in launches via MyBinder.org!
 
 
