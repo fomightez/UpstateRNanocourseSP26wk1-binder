@@ -11,7 +11,7 @@ JupyterLab+R:  [![badge](https://img.shields.io/badge/launch-JupyterLab%20with%2
 
 ---------------
 
-CURRENTLY RSTUDIO DOESN'T WORK. I think it is a MyBinder issue because it was working a few weeks ago and nothing has changed. Current information at the Jupyter Discourse site doesn't seem to address this yet. ===> Update: I tried a few things today to see if it would cause it to start working. Maybe I need to fork https://github.com/rocker-org/binder and see if that works. Maybe that has become the only / best way to use rstudio for now?
+CURRENTLY RSTUDIO DOESN'T WORK. I think it is a MyBinder issue because it was working a few weeks ago and nothing has changed. Current information at the Jupyter Discourse site doesn't seem to address this yet. ===> Update: I tried a few things today to see if it would cause it to start working. Maybe I need to fork https://github.com/rocker-org/binder and see if that works. Maybe that has become the only / best way to use rstudio for now? ==> I just tried that at https://github.com/fomightez/rockerORGbinder and it doesn't build currently?!!? Even though launches from the source of the fork still work.
 
 > This repository offers sessions already set up to theoretically\* run the content of week 1 of the nanocourse in launches via MyBinder.org!
 
